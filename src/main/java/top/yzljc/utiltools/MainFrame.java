@@ -29,7 +29,7 @@ public class MainFrame extends JFrame {
     public MainFrame() {
         setTitle("MC Server Monitor (Pro Edition)");
         setSize(800, 500);
-        // 关键修改：点击关闭按钮时不默认退出，而是什么都不做（交给我们自己的监听器处理）
+        // 点击关闭按钮时不默认退出，而是什么都不做（交给我们自己的监听器处理）
         setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
         setLocationRelativeTo(null);
 
