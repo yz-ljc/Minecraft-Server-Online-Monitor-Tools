@@ -1,5 +1,4 @@
 已废弃项目：这个写法太愚蠢，扫端口太暴力了，已经转QQ机器人赛道了
-# Minecraft Server Online Monitor Tools
 
 Minecraft-Server-Online-Monitor-Tools
 ====================================
